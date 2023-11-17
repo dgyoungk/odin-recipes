@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(75, 177, 35)
+}
+
+.index-title {
+    color: white;
+    font-family: 'Times New Roman', 'Georgia', 'Verdana', 'sans-serif';
+}
+
+.home-image {
+    width: 350px;
+    height: auto;
+}
+
+.recipes li a {
+    color: lightblue;
+    font-size: 20px;
+    font-family: 'Verdana', 'Times New Roman', 'Arial', 'sans-serif';
+    font-weight: bold;
+}
