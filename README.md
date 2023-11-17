@@ -5,5 +5,7 @@ TOP Foundations HTML Project
 
     -knowledge:
         -creating HTML documents
-        -using text tags
+        -using text tags (paragraph, heading, emphasis, etc...)
         -using link and image tags
+        -using 2 types of lists (ordered, unordered)
+        -organizing HTML and other misc. files
