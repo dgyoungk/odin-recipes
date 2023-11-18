@@ -10,7 +10,7 @@ TOP Foundations HTML Project
         -using 2 types of lists (ordered, unordered)
         -organizing HTML and other misc. files
 
-### Intro to CSS: external file added to add some flesh to the website
+### Update (Intro to CSS): external file added to add some flesh to the website
     
     -styles added:
         -typography styles (font, emphasis, etc.)
