@@ -2,13 +2,10 @@ body {
     background-color: rgb(59, 158, 20)
 }
 
-h1, h2, h3 {
+.home-title, h1, h2, h3 {
+    font-style: italic;
     color: white;
     font-family: 'Times New Roman', 'Georgia', 'Verdana', 'sans-serif';
-}
-
-.home-title, h2, h3 {
-    font-style: italic;
 }
 
 .steps-start {
@@ -17,10 +14,13 @@ h1, h2, h3 {
 }
 
 .desc {
-    font-size: 18px;
+    font-size: 20px;
     color: white;
     font-family: 'Times New Roman', Times, serif;
+}
 
+.desc.comment {
+    color: rgb(125, 230, 186);
 }
 
 .home-image {
