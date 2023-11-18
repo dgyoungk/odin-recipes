@@ -9,3 +9,10 @@ TOP Foundations HTML Project
         -using link and image tags
         -using 2 types of lists (ordered, unordered)
         -organizing HTML and other misc. files
+
+### Intro to CSS: external file added to add some flesh to the website
+    
+    -styles added:
+        -typography styles (font, emphasis, etc.)
+        -image dimensions
+        -colors (background color, text color)
