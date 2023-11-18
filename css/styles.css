@@ -1,10 +1,21 @@
 body {
-    background-color: rgb(75, 177, 35)
+    background-color: rgb(59, 158, 20)
 }
 
-.index-title {
+h1, h2, h3 {
     color: white;
     font-family: 'Times New Roman', 'Georgia', 'Verdana', 'sans-serif';
+}
+
+h2, h3 {
+    font-weight: italic;
+}
+
+.desc {
+    font-size: 18px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
 }
 
 .home-image {
