@@ -46,3 +46,10 @@ h1, h2, h3 {
     font-size: 18px;
     font-style: italic;
 }
+
+.footer-links a {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: chartreuse;
+}
