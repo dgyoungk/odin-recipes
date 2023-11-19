@@ -1,28 +1,14 @@
 body {
-    max-width: fit-content;
+    max-width: max-content;
     background-color: rgb(59, 158, 20);
     margin: 0 auto;
 }
+/* styles for the homepage */
 
 .home-title, h1, h2, h3 {
     font-style: italic;
     color: white;
     font-family: 'Times New Roman', 'Georgia', 'Verdana', 'sans-serif';
-}
-
-.steps-start {
-    font-weight: bold;
-    font-style: normal;
-}
-
-.desc {
-    font-size: 20px;
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-.desc.comment {
-    color: rgb(125, 230, 186);
 }
 
 .home-image {
@@ -37,6 +23,38 @@ body {
     font-weight: bold;
 }
 
+/* styles for the recipe pages */
+
+.recipe-intro{
+    margin: 0 auto;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+.recipe-intro h1 {
+    padding-left: 2em;
+}
+
+.recipe-desc {
+    border-bottom: .5px solid black;
+    padding-bottom: 1em;
+}
+
+.desc-into {
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.desc.comment {
+    color: rgb(125, 230, 186);
+}
+
+.ingredients {
+    padding-bottom: 1em;
+    border-bottom: 2px dotted blanchedalmond;
+}
+
 .ingredients li {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
@@ -44,11 +62,20 @@ body {
     padding: 2px;
 }
 
+.steps-start {
+    font-weight: bold;
+    font-style: normal;
+}
+
 .steps li {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     font-style: italic;
-    padding: 2px;
+    padding: 1px;
+}
+
+.footer-links {
+    padding-left: 14.5em;
 }
 
 .footer-links a {
@@ -57,5 +84,6 @@ body {
     font-weight: bold;
     color: chartreuse;
     display: inline-block;
-    margin-right: 5px;
+    padding: 2px;
+    padding-right: 10px;
 }
